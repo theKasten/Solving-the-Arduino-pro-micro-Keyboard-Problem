@@ -138,5 +138,5 @@ void specialCaracters(char s){
 }
 
 void loop() {
-  //for some people that feel speiall :)
+  //for some people that feel special :)
 }
